@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FrenchTeacherApp</string>
+    <string name="blackButton">ブラック</string>
+    <string name="GreenButton">グリーン</string>
+    <string name="purpleButton">パープル</string>
+    <string name="redButton">レッド</string>
+    <string name="yellowButton">イエロー</string>
+    <string name="teacherApp">Teacher App</string>
 </resources>
