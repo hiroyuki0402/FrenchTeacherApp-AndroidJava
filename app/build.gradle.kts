@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.frenchteacherapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.frenchteacherapp"
         minSdk = 31
-        targetSdk = 33
+        targetSdk = 31
         versionCode = 1
         versionName = "1.0"
 
